@@ -79,7 +79,7 @@ image = "images/about/about.jpg"
 
 # Call to Action
 [params.cta]
-enable = true
+enable = false
 title = "SO WHAT YOU THINKing ?"
 content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
 btnText = "Kontak kami"
