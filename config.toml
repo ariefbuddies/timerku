@@ -1,6 +1,6 @@
-baseURL = "https://demo.gethugothemes.com/timer/site/"
+baseURL = "https://ariefbuddies.github.io/timerku/"
 languageCode = "en-us"
-title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
+title = "Bening Abadi Trans"
 theme = "timer-hugo"
 # post pagination
 paginate = "2" # see https://gohugo.io/extras/pagination/
@@ -55,12 +55,12 @@ contactFormAction = "#" # contact form works with https://formspree.io
 [params.banner]
 enable = true
 bgImage = "images/slider.jpg"
-heading = "HI, MY NAME IS JONATHON & I AM A"
+heading = "HI, BENING ABADI TRANSPORT"
 description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
 # button
 btn = true
-btnText = "Download More"
-btnURL = "https://themefisher.com/"
+btnText = "More"
+btnURL = ""
 
 # flip text
 [[params.banner.flipText]]
