@@ -19,17 +19,17 @@ url = "about/"
 weight = 2
 
 [[menu.main]]
-name = "Service"
+name = "Sewa Mobil Jogja"
 url = "service/"
 weight = 3
 
 [[menu.main]]
-name = "Gallery"
+name = "Penginapan"
 url = "gallery/"
 weight = 4
 
 [[menu.main]]
-name = "Blog"
+name = "Rental Motor Jogja"
 url = "blog/"
 weight = 5
 
