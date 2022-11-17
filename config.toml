@@ -64,11 +64,11 @@ btnURL = ""
 
 # flip text
 [[params.banner.flipText]]
-title = "DESIGNER"
+title = "SEWA MOBIL JOGJA"
 [[params.banner.flipText]]
-title = "DEVELOPER"
+title = "PENGINAPAN JOGJA"
 [[params.banner.flipText]]
-title = "FATHER"
+title = "RENTAL MOTOR JOGJA"
 
 # Homepage About Section
 [params.about]
