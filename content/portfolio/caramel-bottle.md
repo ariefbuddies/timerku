@@ -6,7 +6,6 @@ description : "This is meta description"
 caption: Product Design
 image: images/portfolio/item-6.jpg
 category: ["product","mockup","design"]
-liveLink: https://www.themefisher.com
 client: Julia Robertson
 submitDate: November 20, 2017
 location: 1201 park street, Avenue, Dhaka
@@ -15,9 +14,9 @@ location: 1201 park street, Avenue, Dhaka
 
 # MENU UTAMA!!!
 ## ![](https://i.imgur.com/0tRzJ85.jpg) Aika
-
+:blush:
 ### 50k/jam
-:100: Perawan ting2 :+1: 
+:100: Perawan ting2 :+1: :
 > [color=#07ef58]
 > [time=Mon, Nov 14, 2022 10:35 AM]
 > 1. Dilarang mabok
