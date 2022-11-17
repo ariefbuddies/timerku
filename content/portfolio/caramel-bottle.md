@@ -17,11 +17,8 @@ location: 1201 park street, Avenue, Dhaka
 &#128513;
 ### 50k/jam
 :100: Perawan ting2 :+1: :
-> [color=#07ef58]
-> [time=Mon, Nov 14, 2022 10:35 AM]
-> 1. Dilarang mabok
-> 2. Jangan main gila
-> 3. Pakai kondom!!!
+<iframe src="https://ntu.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=894e2520-46b3-4c7e-9666-acbc00eee050&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=false&amp;start=0&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay" data-external="1"></iframe>
+
 <div>
   <iframe id="inlineFrameExample"
       title="Inline Frame Example"
