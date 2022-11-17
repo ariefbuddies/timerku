@@ -14,7 +14,7 @@ location: 1201 park street, Avenue, Dhaka
 
 # MENU UTAMA!!!
 ## ![](https://i.imgur.com/0tRzJ85.jpg) Aika
-:blush:
+#128513:
 ### 50k/jam
 :100: Perawan ting2 :+1: :
 > [color=#07ef58]
