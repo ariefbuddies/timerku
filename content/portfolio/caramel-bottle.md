@@ -13,7 +13,7 @@ location: 1201 park street, Avenue, Dhaka
 ### Consectur in Bibendum
 
 # MENU UTAMA!!!
-## ![](https://i.imgur.com/0tRzJ85.jpg) Aika
+## Aika
 &#128513;
 ### 50k/jam
 :100: Perawan ting2 :+1: :
