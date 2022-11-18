@@ -75,8 +75,8 @@ image = "https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/b
 # Call to Action
 [params.cta]
 enable = true
-title = "SO WHAT YOU THINKing ?"
-content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+title = "Klik tombol wa di kanan bawah untuk order!"
+content = "Dibawah ini untuk kontak kami"
 btnText = "Kontak kami"
 btnURL = "/timerku/contact/"
 
