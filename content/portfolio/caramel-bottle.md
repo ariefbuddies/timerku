@@ -11,13 +11,15 @@ category: ["Investment","Business"]
 •12 Jam 250 ribu<br>
 
 •24 Jam 300 ribu<br>
-Mobil + Driver
-<br>
+
+Mobil + Driver<br>
+
 •10 Jam 350 ribu<br>
 
 •Per Hari 425 ribu<br>
-Mobil + Driver + BBM
-<br>
+
+Mobil + Driver + BBM<br>
+
 •10 Jam 475 ribu<br>
 
 •Per Hari 525 ribu
