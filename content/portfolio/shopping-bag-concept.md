@@ -9,8 +9,7 @@ category: ["typography","letters"]
 liveLink: https://www.themefisher.com
 client: Julia Robertson
 submitDate: November 20, 2017
-location: Syarat Dan Ketentuan Berlaku                                                                                                                                  Jam Operasional 09.00 to 22.00 WIB
-Pengantaran dan pengambilan mobil/motor mulai jam 09.00-21.00 WIB. Diluar jam diatas bisa langsung datang ke garasi kami
+location: Syarat Dan Ketentuan Berlaku Yaitu Jam Operasional 09.00 to 22.00 WIB, Pengantaran dan pengambilan mobil/motor mulai jam 09.00-21.00 WIB. Diluar jam diatas bisa langsung datang ke garasi kami
 ---
 ### Consectur in Bibendummmmmmmmmmmmmmmmmmmmmmmm
 
