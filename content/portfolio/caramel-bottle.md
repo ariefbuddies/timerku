@@ -7,14 +7,14 @@ image: https://ayzeapykfq.cloudimg.io/v7/raw.githubusercontent.com/ariefbuddies/
 category: ["product","mockup","design"]
 ---
 LEPAS KUNCI
-
+<br>
 •12 Jam 250 ribu
-•24 Jam 300 ribu
+•24 Jam 300 ribu<br>
 Mobil + Driver
-
+<br>
 •10 Jam 350 ribu
-•Per Hari 425 ribu
+•Per Hari 425 ribu<br>
 Mobil + Driver + BBM
-
+<br>
 •10 Jam 475 ribu
 •Per Hari 525 ribu
