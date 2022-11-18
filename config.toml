@@ -14,11 +14,6 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
-url = "about/"
-weight = 2
-
-[[menu.main]]
 name = "Sewa Mobil Jogja"
 url = "service/"
 weight = 3
