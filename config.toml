@@ -78,7 +78,7 @@ enable = true
 title = "SO WHAT YOU THINKing ?"
 content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
 btnText = "Kontak kami"
-btnURL = "/contact/"
+btnURL = "/timerku/contact/"
 
 # Portfolio Section On Homepage
 [params.portfolio]
