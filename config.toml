@@ -84,7 +84,7 @@ btnURL = "contact"
 [params.portfolio]
 enable = true
 title = "SEWA MOBIL MURAH"
-subtitle = "Sewa Mobil Jogja termurah hanya disini!!!"
+subtitle = "Sewa Mobil Jogja termurah hanya disini!!! &#128514; "
 
 # social icon
 [[params.socialIcon]]
