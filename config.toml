@@ -73,13 +73,13 @@ title = "RENTAL MOTOR JOGJA"
 # Homepage About Section
 [params.about]
 enable = true
-title = "ABOUT ME"
+title = "Tentang Bening Abadi"
 content = "Sejak tahun 2010 Bening Abadi Transport telah berkecimpung di bidang transportasi dan penginapan murah di Yogyakarta dan lokasi yang terdekat UGM dan UNY Jogja."
 image = "https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m14.webp?w=400&radius=25&force_format=png&"
 
 # Call to Action
 [params.cta]
-enable = false
+enable = true
 title = "SO WHAT YOU THINKing ?"
 content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
 btnText = "Kontak kami"
