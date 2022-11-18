@@ -8,7 +8,7 @@ image: https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/ben
 category: ["Investment","Business"]
 location: Yaitu Jam Operasional 09.00 to 22.00 WIB, Pengantaran dan pengambilan mobil/motor mulai jam 09.00-21.00 WIB. Diluar jam diatas bisa langsung datang ke garasi kami, 3 Tanda pengenal/ID (KTP,NPWP,SIM,PASPORT,ID KERJA,BPJS), No Telp HP customer yang bisa dihubungi, Semua booking mobil lepas kunci dan motor adalah untuk pemakaian kendaraan di dalam area DIY, Semua pemesanan tanpa DP adalah bersifat tidak mengikat, Overtime 10% per jam dari Tarif Sewa, Saat hari High Season harga berbeda dengan harga hari normal
 ---
-### Consectur in Bibendummmmmmmmmmmmmmmmmmmmmmmm
+### Consectur in Bibendum
 
 Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
