@@ -2,7 +2,8 @@
 title: "All New Avanza AuTomatic"
 type: portfolio
 description : "Avanza"
-caption: Avanza
+caption: Avanza<br>
+•12 Jam 250 ribu
 image: https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m1.webp?w=600&h=500&func=cover
 category: ["product","mockup","design"]
 ---
