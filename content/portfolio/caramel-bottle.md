@@ -4,7 +4,7 @@ type: portfolio
 date: 2018-07-12T16:59:54+06:00
 description : "This is meta description"
 caption: Product Design
-image: images/portfolio/item-6.jpg
+image: https://ayzeapykfq.cloudimg.io/v7/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m1.webp
 category: ["product","mockup","design"]
 client: Julia Robertson
 submitDate: November 20, 2017
