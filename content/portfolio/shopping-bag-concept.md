@@ -5,12 +5,9 @@ date: 2018-07-12T16:58:55+06:00
 description : "This is meta description"
 caption: Conceptual Design
 image: images/portfolio/item-5.jpg
-category: ["bag","mockup"]
 location: Syarat Dan Ketentuan Berlaku
 - Jam Operasional 09.00 – 22.00 WIB
 - Pengantaran dan pengambilan mobil/motor mulai jam 09.00-21.00 WIB. Diluar jam diatas bisa langsung datang ke garasi kami.
-
-
 - 3 Tanda pengenal/ID (KTP,NPWP,SIM,PASPORT,ID KERJA,BPJS)
 - No Telp HP customer yang bisa dihubungi
 - Semua booking mobil lepas kunci dan motor adalah untuk pemakaian kendaraan di dalam area DIY
