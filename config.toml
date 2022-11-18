@@ -56,7 +56,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable = true
 bgImage = "images/slider.jpg"
 heading = "HI, BENING ABADI TRANSPORT"
-description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
+description = "Rental Motor Mulai 70b/Hari | Sewa Mobil Mulai 250rb/Hari | Penginapan Mulai 165rb/Malam Telp. 0274-583197 & 0274-547440 Untuk informasi lebih lanjut dan booking."
 # button
 btn = false
 btnText = "More"
@@ -74,8 +74,8 @@ title = "RENTAL MOTOR JOGJA"
 [params.about]
 enable = true
 title = "ABOUT ME"
-content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
-image = "https://ayzeapykfq.cloudimg.io/v7/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m14.webp?w=588&h=368&func=cover"
+content = "Sejak tahun 2010 Bening Abadi Transport telah berkecimpung di bidang transportasi dan penginapan murah di Yogyakarta dan lokasi yang terdekat UGM dan UNY Jogja."
+image = "https://aceapugtar.cloudimg.io/v7/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m14.webp?w=588&h=368&func=bound"
 
 # Call to Action
 [params.cta]
