@@ -4,9 +4,7 @@ type: portfolio
 description : "Avanza"
 caption: Avanza AT / 12 Jam 250k / 24 Jam 300k
 image: https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m1.webp?w=600&h=500&func=cover
-category: ["Syarat Dan Ketentuan Berlaku
-- Jam Operasional 09.00 – 22.00 WIB
-- Pengantaran dan pengambilan mobil/motor mulai jam 09.00-21.00 WIB. Diluar jam diatas bisa langsung datang ke garasi kami."]
+category: ["Syarat Dan Ketentuan Berlaku"]
 ---
 LEPAS KUNCI
 <br>
