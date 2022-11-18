@@ -4,7 +4,7 @@ type: portfolio
 description : "Avanza"
 caption: Avanza AT / 12 Jam 250k / 24 Jam 300k
 image: https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m1.webp?w=600&h=500&func=cover
-category: ["Investment","Design"]
+category: ["Investment","Business"]
 ---
 LEPAS KUNCI
 <br>
