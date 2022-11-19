@@ -2,13 +2,13 @@ enable  : true
 title   : MEET THE TEAM
 members  :
   - name  : Jonathon Andrew
-    image : images/team/team-1.jpg
+    image : https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio.jpg?w=400&radius=25&force_format=png&
     designation : CEO, Project Manager
     description : LEPAS KUNCI * 12 Jam 250 ribu / 24 Jam 300 ribu
   
   
   - name  : Jesmin Martina
-    image : images/team/team-2.jpg
+    image : https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio.jpg?w=400&radius=25&force_format=png&
     designation : CEO, Project Manager
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
     facebook    : https://www.fb.com/themefisher
@@ -17,7 +17,7 @@ members  :
     googleplus  : https://plus.google.com/themefisher
   
   - name  : Deu John
-    image : images/team/team-3.jpg
+    image : https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio.jpg?w=400&radius=25&force_format=png&
     designation : CEO, Project Manager
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
     facebook    : https://www.fb.com/themefisher
@@ -26,7 +26,7 @@ members  :
     googleplus  : https://plus.google.com/themefisher
 
   - name  : Anderson Martin
-    image : images/team/team-4.jpg
+    image : https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio.jpg?w=400&radius=25&force_format=png&
     designation : CEO, Project Manager
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
     facebook    : https://www.fb.com/themefisher
