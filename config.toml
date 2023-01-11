@@ -54,7 +54,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable = true
-bgImage = "https://ayzeapykfq.cloudimg.io/v7/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/panobening.jpg?f=blur:2&radius=25&force_format=png&"
+bgImage = "https://gigitdemo.my.id/prlxvid9.webm"
 heading = "HI, BENING ABADI TRANSPORT"
 description = "Rental Motor Mulai 70Rb/Hari | Sewa Mobil Mulai 250rb/Hari | Penginapan Mulai 165rb/Malam Telp. 0274-583197 & 0274-547440 Untuk informasi lebih lanjut dan booking."
 # button
